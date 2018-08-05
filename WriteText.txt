@@ -1,0 +1,90 @@
+Received Cisco AIR-LAP 1142N-A-K9 Access Point
+
+Description Cisco AIR-LAP 1142N-A-K9 Access Point
+Asset 30435
+Serial Numer FTX1417S1FT
+Work Order 407996
+MAC 68EFBDA4E092
+Purchase Order 192238
+
+Received Cisco AIR-LAP 1142N-A-K9 Access Point
+
+Description Cisco AIR-LAP 1142N-A-K9 Access Point
+Asset 0
+Serial Numer FTX1417S1G7
+Work Order 407996
+MAC 5475D029457D
+Purchase Order 192238
+
+Received Cisco AIR-LAP 1142N-A-K9 Access Point
+
+Description Cisco AIR-LAP 1142N-A-K9 Access Point
+Asset 30436
+Serial Numer FTX1417S1GH
+Work Order 407996
+MAC 68EFBDFEF6BC
+Purchase Order 192238
+
+Received Cisco AIR-LAP 1142N-A-K9 Access Point
+
+Description Cisco AIR-LAP 1142N-A-K9 Access Point
+Asset 30432
+Serial Numer FTX1417S1GP
+Work Order 407996
+MAC 68EFBDFEF64E
+Purchase Order 192238
+
+Received Cisco AIR-LAP 1142N-A-K9 Access Point
+
+Description Cisco AIR-LAP 1142N-A-K9 Access Point
+Asset 30439
+Serial Numer FTX1417S1JV
+Work Order 407996
+MAC 68EFBDFF053C
+Purchase Order 192238
+
+Received Cisco AIR-LAP 1142N-A-K9 Access Point
+
+Description Cisco AIR-LAP 1142N-A-K9 Access Point
+Asset 30433
+Serial Numer FTX1417S1J0
+Work Order 407996
+MAC 5475D02958AB
+Purchase Order 192238
+
+Received Cisco AIR-LAP 1142N-A-K9 Access Point
+
+Description Cisco AIR-LAP 1142N-A-K9 Access Point
+Asset 30438
+Serial Numer FTX1417S1JR
+Work Order 407996
+MAC 5475D0295646
+Purchase Order 192238
+
+Received Cisco AIR-LAP 1142N-A-K9 Access Point
+
+Description Cisco AIR-LAP 1142N-A-K9 Access Point
+Asset 30437
+Serial Numer FTX1417K1B3
+Work Order 407996
+MAC 5475D029580B
+Purchase Order 192238
+
+Received Cisco AIR-LAP 1142N-A-K9 Access Point
+
+Description Cisco AIR-LAP 1142N-A-K9 Access Point
+Asset 30431
+Serial Numer FTX1417S1JA
+Work Order 407996
+MAC 5475D02958D2
+Purchase Order 192238
+
+Received Cisco AIR-LAP 1142N-A-K9 Access Point
+
+Description Cisco AIR-LAP 1142N-A-K9 Access Point
+Asset 30430
+Serial Numer FTX1417S1F7
+Work Order 407996
+MAC 5475D029455A
+Purchase Order 192238
+

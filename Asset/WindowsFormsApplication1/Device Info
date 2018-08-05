@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<devices>
+  <laptops>
+    <dell>
+    <name ID= "dell"></name>
+    <sn></sn>
+      </dell>
+    <toshiba>
+      <name ID="toshiba"></name>
+      <sn></sn>
+    </toshiba>
+    <asus>
+      <name ID="asus"></name>
+      <sn></sn>
+    </asus>
+    <chromebook>
+      <name ID="Chromebook"></name>
+      <sn></sn>
+    </chromebook>
+  </laptops>
+  
+  <monitors>
+    <dell>
+      <name ID= "dell"></name>
+      <sn></sn>
+    </dell>
+    <acer>
+      <name ID="toshiba"></name>
+      <sn></sn>
+    </acer>
+    <asus>
+      <name ID="asus"></name>
+      <sn></sn>
+    </asus>
+    <planar>
+      <name ID="Chromebook"></name>
+      <sn></sn>
+    </planar>
+  </monitors>
+  
+  <pcs>
+    <dell>
+      <name ID= "dell"></name>
+      <sn></sn>
+    </dell>
+    <intel>
+      <name ID="toshiba"></name>
+      <sn></sn>
+    </intel>
+  </pcs>
+  
+  <servers>
+    <dell>
+      <name ID= "dell"></name>
+      <sn></sn>
+    </dell>
+    <synology>
+      <name ID="toshiba"></name>
+      <sn></sn>
+    </synology>
+  </servers>
+  
+  <scanners>
+    <symbol>
+      <name ID= "dell"></name>
+      <sn></sn>
+    </symbol>
+    <brother>
+      <name ID="toshiba"></name>
+      <sn></sn>
+    </brother>
+    <scanshell>
+      <name ID="asus"></name>
+      <sn></sn>
+    </scanshell>
+  </scanners>
+  
+  <batteries>
+    <enovate>
+      <name ID= "dell"></name>
+      <sn></sn>
+    </enovate>
+  </batteries>
+  
+  <thin>
+    <dell>
+      <name ID= "dell"></name>
+      <sn></sn>
+    </dell>
+    <wyse>
+      <name ID="wyse"></name>
+      <sn></sn>
+    </wyse>
+  </thin>
+  
+  
+</devices>
+
+
